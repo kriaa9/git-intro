@@ -1,2 +1,1 @@
-Message from feature branch
-Updated message from main branch
+Change from main
